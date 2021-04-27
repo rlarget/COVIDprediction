@@ -60,3 +60,33 @@ MAE/RMSE: | Current Valid: 0.03/0.18 Ep. 8 | Best Valid : 0.03/0.18 Ep. 8 | acc:
 Epoch: 010/010 | Batch 0000/0097 | Cost: 0.0193
 Epoch: 010/010 | Batch 0050/0097 | Cost: 0.0160
 MAE/RMSE: | Current Valid: 0.05/0.22 Ep. 9 | Best Valid : 0.03/0.18 Ep. 8 | acc: 94.97% |alpha/beta 0.03/0.02 ,
+
+ ## sEED = 1
+ 
+ Epoch: 001/010 | Batch 0000/0097 | Cost: 0.6102
+ Epoch: 001/010 | Batch 0050/0097 | Cost: 0.2093
+ MAE/RMSE: | Current Valid: 0.12/0.34 Ep. 0 | Best Valid : 0.12/0.34 Ep. 0 | acc: 88.48% |alpha/beta 0.05/0.06 ,
+ Epoch: 002/010 | Batch 0000/0097 | Cost: 0.1494
+ Epoch: 002/010 | Batch 0050/0097 | Cost: 0.1035
+ MAE/RMSE: | Current Valid: 0.08/0.28 Ep. 1 | Best Valid : 0.08/0.28 Ep. 1 | acc: 92.30% |alpha/beta 0.04/0.04 ,
+ Epoch: 003/010 | Batch 0000/0097 | Cost: 0.1114
+ Epoch: 003/010 | Batch 0050/0097 | Cost: 0.1348
+ MAE/RMSE: | Current Valid: 0.05/0.22 Ep. 2 | Best Valid : 0.05/0.22 Ep. 2 | acc: 95.35% |alpha/beta 0.02/0.02 ,
+ Epoch: 004/010 | Batch 0000/0097 | Cost: 0.0656
+ Epoch: 004/010 | Batch 0050/0097 | Cost: 0.1029
+ MAE/RMSE: | Current Valid: 0.04/0.21 Ep. 3 | Best Valid : 0.04/0.21 Ep. 3 | acc: 95.73% |alpha/beta 0.02/0.02 ,
+ Epoch: 005/010 | Batch 0000/0097 | Cost: 0.1155
+ Epoch: 005/010 | Batch 0050/0097 | Cost: 0.0855
+ MAE/RMSE: | Current Valid: 0.06/0.24 Ep. 4 | Best Valid : 0.04/0.21 Ep. 3 | acc: 94.13% |alpha/beta 0.02/0.04 ,
+ Epoch: 006/010 | Batch 0000/0097 | Cost: 0.0691
+ Epoch: 006/010 | Batch 0050/0097 | Cost: 0.0874
+ MAE/RMSE: | Current Valid: 0.03/0.18 Ep. 5 | Best Valid : 0.03/0.18 Ep. 5 | acc: 96.72% |alpha/beta 0.02/0.01 ,
+ Epoch: 007/010 | Batch 0000/0097 | Cost: 0.0234
+ Epoch: 007/010 | Batch 0050/0097 | Cost: 0.0711
+ MAE/RMSE: | Current Valid: 0.04/0.20 Ep. 6 | Best Valid : 0.03/0.18 Ep. 5 | acc: 96.19% |alpha/beta 0.02/0.01 ,
+ Epoch: 008/010 | Batch 0000/0097 | Cost: 0.0114
+ Epoch: 008/010 | Batch 0050/0097 | Cost: 0.0574
+ MAE/RMSE: | Current Valid: 0.04/0.20 Ep. 7 | Best Valid : 0.03/0.18 Ep. 5 | acc: 96.11% |alpha/beta 0.02/0.02 ,
+ Epoch: 009/010 | Batch 0000/0097 | Cost: 0.0335
+ Epoch: 009/010 | Batch 0050/0097 | Cost: 0.0889
+ MAE/RMSE: | Current Valid: 0.04/0.20 Ep. 8 | Best Valid : 0.03/0.18 Ep. 5 | acc: 95.96% |alpha/beta 0.02/0.02 ,
