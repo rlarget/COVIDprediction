@@ -1,0 +1,45 @@
+Epoch: 001/010 | Batch 0000/0114 | Cost: 0.7101
+Epoch: 001/010 | Batch 0050/0114 | Cost: 0.3508
+Epoch: 001/010 | Batch 0100/0114 | Cost: 0.3099
+Epoch: 001/010 | Batch 0000/0114 | Cost: 0.8122
+Epoch: 001/010 | Batch 0050/0114 | Cost: 0.4214
+Epoch: 001/010 | Batch 0100/0114 | Cost: 0.3274
+MAE/RMSE: | Current Valid: 0.12/0.34 Ep. 0 | Best Valid : 0.12/0.34 Ep. 0 | acc: 88.39 % |alpha/beta 0.08/0.04 ,
+Epoch: 002/010 | Batch 0000/0114 | Cost: 0.2983
+Epoch: 002/010 | Batch 0050/0114 | Cost: 0.3455
+Epoch: 002/010 | Batch 0100/0114 | Cost: 0.2460
+MAE/RMSE: | Current Valid: 0.08/0.29 Ep. 1 | Best Valid : 0.08/0.29 Ep. 1 | acc: 91.58 % |alpha/beta 0.02/0.06 ,
+Epoch: 003/010 | Batch 0000/0114 | Cost: 0.1841
+Epoch: 003/010 | Batch 0050/0114 | Cost: 0.2229
+Epoch: 003/010 | Batch 0100/0114 | Cost: 0.2384
+MAE/RMSE: | Current Valid: 0.08/0.29 Ep. 2 | Best Valid : 0.08/0.29 Ep. 1 | acc: 91.51 % |alpha/beta 0.05/0.04 ,
+Epoch: 004/010 | Batch 0000/0114 | Cost: 0.2586
+Epoch: 001/001 | Batch 0000/0114 | Cost: 0.6530
+Epoch: 001/001 | Batch 0050/0114 | Cost: 0.6609
+Epoch: 001/001 | Batch 0100/0114 | Cost: 0.2458
+MAE/RMSE: | Current Valid: 0.11/0.33 Ep. 0 | Best Valid : 0.11/0.33 Ep. 0 | acc: 89.22 % |alpha/beta 0.03/0.08 ,
+Epoch: 001/001 | Batch 0000/0114 | Cost: 0.7170
+Epoch: 001/001 | Batch 0050/0114 | Cost: 0.3074
+Epoch: 001/001 | Batch 0100/0114 | Cost: 0.3930
+MAE/RMSE: | Current Valid: 0.14/0.37 Ep. 0 | Best Valid : 0.14/0.37 Ep. 0 | acc: 86.09 % |alpha/beta 0.06/0.08 ,
+Epoch: 001/001 | Batch 0000/0114 | Cost: 0.8762
+Epoch: 001/005 | Batch 0000/0114 | Cost: 0.6516
+Epoch: 001/005 | Batch 0050/0114 | Cost: 0.2625
+Epoch: 001/005 | Batch 0100/0114 | Cost: 0.2154
+MAE/RMSE: | Current Valid: 0.12/0.34 Ep. 0 | Best Valid : 0.12/0.34 Ep. 0 | acc: 88.45 % |alpha/beta 0.03/0.08 ,
+Epoch: 002/005 | Batch 0000/0114 | Cost: 0.2936
+Epoch: 002/005 | Batch 0050/0114 | Cost: 0.2416
+Epoch: 002/005 | Batch 0100/0114 | Cost: 0.2583
+MAE/RMSE: | Current Valid: 0.09/0.29 Ep. 1 | Best Valid : 0.09/0.29 Ep. 1 | acc: 91.32 % |alpha/beta 0.03/0.05 ,
+Epoch: 003/005 | Batch 0000/0114 | Cost: 0.1959
+Epoch: 003/005 | Batch 0050/0114 | Cost: 0.1810
+Epoch: 003/005 | Batch 0100/0114 | Cost: 0.2935
+MAE/RMSE: | Current Valid: 0.08/0.28 Ep. 2 | Best Valid : 0.08/0.28 Ep. 2 | acc: 92.15 % |alpha/beta 0.04/0.04 ,
+Epoch: 004/005 | Batch 0000/0114 | Cost: 0.1798
+Epoch: 004/005 | Batch 0050/0114 | Cost: 0.3265
+Epoch: 004/005 | Batch 0100/0114 | Cost: 0.3062
+MAE/RMSE: | Current Valid: 0.06/0.25 Ep. 3 | Best Valid : 0.06/0.25 Ep. 3 | acc: 93.68 % |alpha/beta 0.02/0.04 ,
+Epoch: 005/005 | Batch 0000/0114 | Cost: 0.1741
+Epoch: 005/005 | Batch 0050/0114 | Cost: 0.1802
+Epoch: 005/005 | Batch 0100/0114 | Cost: 0.2274
+MAE/RMSE: | Current Valid: 0.08/0.28 Ep. 4 | Best Valid : 0.06/0.25 Ep. 3 | acc: 91.90 % |alpha/beta 0.05/0.03 ,
