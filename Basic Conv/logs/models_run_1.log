@@ -1,0 +1,216 @@
+Epoch: 001/010 | Batch 0000/0208 | Loss: 0.6931
+Epoch: 001/010 | Batch 0050/0208 | Loss: 0.4451
+Epoch: 001/010 | Batch 0100/0208 | Loss: 0.4736
+Epoch: 001/010 | Batch 0150/0208 | Loss: 0.3254
+Epoch: 001/010 | Batch 0200/0208 | Loss: 0.4938
+Epoch: 001/010 | Train: 80.87% | Validation: 80.50%
+Time elapsed: 10.85 min
+Epoch: 002/010 | Batch 0000/0208 | Loss: 0.4902
+Epoch: 002/010 | Batch 0050/0208 | Loss: 0.2585
+Epoch: 002/010 | Batch 0100/0208 | Loss: 0.3524
+Epoch: 002/010 | Batch 0150/0208 | Loss: 0.3727
+Epoch: 002/010 | Batch 0200/0208 | Loss: 0.4691
+Epoch: 002/010 | Train: 79.72% | Validation: 77.67%
+Time elapsed: 21.74 min
+Epoch: 003/010 | Batch 0000/0208 | Loss: 0.4661
+Epoch: 003/010 | Batch 0050/0208 | Loss: 0.2502
+Epoch: 003/010 | Batch 0100/0208 | Loss: 0.3722
+Epoch: 003/010 | Batch 0150/0208 | Loss: 0.3214
+Epoch: 003/010 | Batch 0200/0208 | Loss: 0.3682
+Epoch: 003/010 | Train: 82.92% | Validation: 83.33%
+Time elapsed: 32.57 min
+Epoch: 004/010 | Batch 0000/0208 | Loss: 0.4360
+Epoch: 004/010 | Batch 0050/0208 | Loss: 0.2596
+Epoch: 004/010 | Batch 0100/0208 | Loss: 0.5417
+Epoch: 004/010 | Batch 0150/0208 | Loss: 0.3279
+Epoch: 004/010 | Batch 0200/0208 | Loss: 0.3116
+Epoch: 004/010 | Train: 85.64% | Validation: 83.44%
+Time elapsed: 43.58 min
+Epoch: 005/010 | Batch 0000/0208 | Loss: 0.2936
+Epoch: 005/010 | Batch 0050/0208 | Loss: 0.3509
+Epoch: 005/010 | Batch 0100/0208 | Loss: 0.2977
+Epoch: 005/010 | Batch 0150/0208 | Loss: 0.2537
+Epoch: 005/010 | Batch 0200/0208 | Loss: 0.1541
+Epoch: 005/010 | Train: 87.33% | Validation: 84.91%
+Time elapsed: 54.55 min
+Epoch: 006/010 | Batch 0000/0208 | Loss: 0.2933
+Epoch: 006/010 | Batch 0050/0208 | Loss: 0.2540
+Epoch: 006/010 | Batch 0100/0208 | Loss: 0.2085
+Epoch: 006/010 | Batch 0150/0208 | Loss: 0.2108
+Epoch: 006/010 | Batch 0200/0208 | Loss: 0.1614
+Epoch: 006/010 | Train: 88.27% | Validation: 86.37%
+Time elapsed: 65.38 min
+Epoch: 007/010 | Batch 0000/0208 | Loss: 0.2665
+Epoch: 007/010 | Batch 0050/0208 | Loss: 0.1146
+Epoch: 007/010 | Batch 0100/0208 | Loss: 0.2761
+Epoch: 007/010 | Batch 0150/0208 | Loss: 0.4503
+Epoch: 007/010 | Batch 0200/0208 | Loss: 0.2081
+Epoch: 007/010 | Train: 86.88% | Validation: 84.91%
+Time elapsed: 76.64 min
+Epoch: 008/010 | Batch 0000/0208 | Loss: 0.3735
+Epoch: 008/010 | Batch 0050/0208 | Loss: 0.1347
+Epoch: 008/010 | Batch 0100/0208 | Loss: 0.1694
+Epoch: 008/010 | Batch 0150/0208 | Loss: 0.2700
+Epoch: 008/010 | Batch 0200/0208 | Loss: 0.2386
+Epoch: 008/010 | Train: 89.14% | Validation: 86.48%
+Time elapsed: 87.53 min
+Epoch: 009/010 | Batch 0000/0208 | Loss: 0.1528
+Epoch: 009/010 | Batch 0050/0208 | Loss: 0.3125
+Epoch: 009/010 | Batch 0100/0208 | Loss: 0.1451
+Epoch: 009/010 | Batch 0150/0208 | Loss: 0.1990
+Epoch: 009/010 | Batch 0200/0208 | Loss: 0.1127
+Epoch: 009/010 | Train: 91.68% | Validation: 87.00%
+Time elapsed: 98.30 min
+Epoch: 010/010 | Batch 0000/0208 | Loss: 0.1293
+Epoch: 010/010 | Batch 0050/0208 | Loss: 0.1786
+Epoch: 010/010 | Batch 0100/0208 | Loss: 0.1406
+Epoch: 010/010 | Batch 0150/0208 | Loss: 0.2148
+Epoch: 010/010 | Batch 0200/0208 | Loss: 0.2752
+Epoch: 010/010 | Train: 91.57% | Validation: 88.78%
+Time elapsed: 109.46 min
+Total Training Time: 109.46 min
+Test accuracy 87.26%
+Epoch: 001/010 | Batch 0000/0208 | Loss: 0.6923
+Epoch: 001/010 | Batch 0050/0208 | Loss: 0.4956
+Epoch: 001/010 | Batch 0100/0208 | Loss: 0.3427
+Epoch: 001/010 | Batch 0150/0208 | Loss: 0.3933
+Epoch: 001/010 | Batch 0200/0208 | Loss: 0.2516
+Epoch: 001/010 | Train: 81.94% | Validation: 80.50%
+Time elapsed: 10.53 min
+Epoch: 002/010 | Batch 0000/0208 | Loss: 0.5595
+Epoch: 002/010 | Batch 0050/0208 | Loss: 0.1939
+Epoch: 002/010 | Batch 0100/0208 | Loss: 0.4225
+Epoch: 002/010 | Batch 0150/0208 | Loss: 0.4910
+Epoch: 002/010 | Batch 0200/0208 | Loss: 0.1988
+Epoch: 002/010 | Train: 84.28% | Validation: 83.02%
+Time elapsed: 21.05 min
+Epoch: 003/010 | Batch 0000/0208 | Loss: 0.4723
+Epoch: 003/010 | Batch 0050/0208 | Loss: 0.4478
+Epoch: 003/010 | Batch 0100/0208 | Loss: 0.2934
+Epoch: 003/010 | Batch 0150/0208 | Loss: 0.2688
+Epoch: 003/010 | Batch 0200/0208 | Loss: 0.4224
+Epoch: 003/010 | Train: 84.01% | Validation: 81.13%
+Time elapsed: 31.68 min
+Epoch: 004/010 | Batch 0000/0208 | Loss: 0.3016
+Epoch: 004/010 | Batch 0050/0208 | Loss: 0.2042
+Epoch: 004/010 | Batch 0100/0208 | Loss: 0.2812
+Epoch: 004/010 | Batch 0150/0208 | Loss: 0.1933
+Epoch: 004/010 | Batch 0200/0208 | Loss: 0.2433
+Epoch: 004/010 | Train: 85.01% | Validation: 84.07%
+Time elapsed: 42.06 min
+Epoch: 005/010 | Batch 0000/0208 | Loss: 0.1881
+Epoch: 005/010 | Batch 0050/0208 | Loss: 0.3684
+Epoch: 005/010 | Batch 0100/0208 | Loss: 0.5403
+Epoch: 005/010 | Batch 0150/0208 | Loss: 0.3130
+Epoch: 005/010 | Batch 0200/0208 | Loss: 0.2568
+Epoch: 005/010 | Train: 86.70% | Validation: 84.80%
+Time elapsed: 52.33 min
+Epoch: 006/010 | Batch 0000/0208 | Loss: 0.2502
+Epoch: 006/010 | Batch 0050/0208 | Loss: 0.2843
+Epoch: 006/010 | Batch 0100/0208 | Loss: 0.3209
+Epoch: 006/010 | Batch 0150/0208 | Loss: 0.2566
+Epoch: 006/010 | Batch 0200/0208 | Loss: 0.2071
+Epoch: 006/010 | Train: 88.43% | Validation: 85.74%
+Time elapsed: 62.68 min
+Epoch: 007/010 | Batch 0000/0208 | Loss: 0.2578
+Epoch: 007/010 | Batch 0050/0208 | Loss: 0.3685
+Epoch: 007/010 | Batch 0100/0208 | Loss: 0.1625
+Epoch: 007/010 | Batch 0150/0208 | Loss: 0.3950
+Epoch: 007/010 | Batch 0200/0208 | Loss: 0.3257
+Epoch: 007/010 | Train: 86.06% | Validation: 83.12%
+Time elapsed: 73.02 min
+Epoch: 008/010 | Batch 0000/0208 | Loss: 0.4099
+Epoch: 008/010 | Batch 0050/0208 | Loss: 0.2615
+Epoch: 008/010 | Batch 0100/0208 | Loss: 0.2000
+Epoch: 008/010 | Batch 0150/0208 | Loss: 0.2714
+Epoch: 008/010 | Batch 0200/0208 | Loss: 0.2944
+Epoch: 008/010 | Train: 88.93% | Validation: 86.48%
+Time elapsed: 83.65 min
+Epoch: 009/010 | Batch 0000/0208 | Loss: 0.1234
+Epoch: 009/010 | Batch 0050/0208 | Loss: 0.1692
+Epoch: 009/010 | Batch 0100/0208 | Loss: 0.2163
+Epoch: 009/010 | Batch 0150/0208 | Loss: 0.1437
+Epoch: 009/010 | Batch 0200/0208 | Loss: 0.1861
+Epoch: 009/010 | Train: 90.78% | Validation: 87.74%
+Time elapsed: 94.26 min
+Epoch: 010/010 | Batch 0000/0208 | Loss: 0.1798
+Epoch: 010/010 | Batch 0050/0208 | Loss: 0.3263
+Epoch: 010/010 | Batch 0100/0208 | Loss: 0.1309
+Epoch: 010/010 | Batch 0150/0208 | Loss: 0.2499
+Epoch: 010/010 | Batch 0200/0208 | Loss: 0.2285
+Epoch: 010/010 | Train: 92.22% | Validation: 88.57%
+Time elapsed: 104.54 min
+Total Training Time: 104.54 min
+Test accuracy 87.68%
+Epoch: 001/010 | Batch 0000/0208 | Loss: 0.6844
+Epoch: 001/010 | Batch 0050/0208 | Loss: 0.6292
+Epoch: 001/010 | Batch 0100/0208 | Loss: 0.3123
+Epoch: 001/010 | Batch 0150/0208 | Loss: 0.5260
+Epoch: 001/010 | Batch 0200/0208 | Loss: 0.3802
+Epoch: 001/010 | Train: 76.35% | Validation: 79.14%
+Time elapsed: 10.44 min
+Epoch: 002/010 | Batch 0000/0208 | Loss: 0.6049
+Epoch: 002/010 | Batch 0050/0208 | Loss: 0.2573
+Epoch: 002/010 | Batch 0100/0208 | Loss: 0.4330
+Epoch: 002/010 | Batch 0150/0208 | Loss: 0.4349
+Epoch: 002/010 | Batch 0200/0208 | Loss: 0.3299
+Epoch: 002/010 | Train: 80.12% | Validation: 79.66%
+Time elapsed: 21.14 min
+Epoch: 003/010 | Batch 0000/0208 | Loss: 0.4740
+Epoch: 003/010 | Batch 0050/0208 | Loss: 0.4916
+Epoch: 003/010 | Batch 0100/0208 | Loss: 0.3935
+Epoch: 003/010 | Batch 0150/0208 | Loss: 0.5080
+Epoch: 003/010 | Batch 0200/0208 | Loss: 0.2946
+Epoch: 003/010 | Train: 80.62% | Validation: 79.35%
+Time elapsed: 31.48 min
+Epoch: 004/010 | Batch 0000/0208 | Loss: 0.4267
+Epoch: 004/010 | Batch 0050/0208 | Loss: 0.2900
+Epoch: 004/010 | Batch 0100/0208 | Loss: 0.4332
+Epoch: 004/010 | Batch 0150/0208 | Loss: 0.2955
+Epoch: 004/010 | Batch 0200/0208 | Loss: 0.5402
+Epoch: 004/010 | Train: 81.46% | Validation: 80.50%
+Time elapsed: 41.91 min
+Epoch: 005/010 | Batch 0000/0208 | Loss: 0.3876
+Epoch: 005/010 | Batch 0050/0208 | Loss: 0.3501
+Epoch: 005/010 | Batch 0100/0208 | Loss: 0.3834
+Epoch: 005/010 | Batch 0150/0208 | Loss: 0.2733
+Epoch: 005/010 | Batch 0200/0208 | Loss: 0.3479
+Epoch: 005/010 | Train: 81.75% | Validation: 81.45%
+Time elapsed: 52.09 min
+Epoch: 006/010 | Batch 0000/0208 | Loss: 0.4342
+Epoch: 006/010 | Batch 0050/0208 | Loss: 0.2913
+Epoch: 006/010 | Batch 0100/0208 | Loss: 0.2898
+Epoch: 006/010 | Batch 0150/0208 | Loss: 0.3042
+Epoch: 006/010 | Batch 0200/0208 | Loss: 0.2861
+Epoch: 006/010 | Train: 82.78% | Validation: 81.87%
+Time elapsed: 62.61 min
+Epoch: 007/010 | Batch 0000/0208 | Loss: 0.3832
+Epoch: 007/010 | Batch 0050/0208 | Loss: 0.2958
+Epoch: 007/010 | Batch 0100/0208 | Loss: 0.5163
+Epoch: 007/010 | Batch 0150/0208 | Loss: 0.3884
+Epoch: 007/010 | Batch 0200/0208 | Loss: 0.2656
+Epoch: 007/010 | Train: 83.16% | Validation: 81.76%
+Time elapsed: 73.28 min
+Epoch: 008/010 | Batch 0000/0208 | Loss: 0.3848
+Epoch: 008/010 | Batch 0050/0208 | Loss: 0.4754
+Epoch: 008/010 | Batch 0100/0208 | Loss: 0.3412
+Epoch: 008/010 | Batch 0150/0208 | Loss: 0.4911
+Epoch: 008/010 | Batch 0200/0208 | Loss: 0.3257
+Epoch: 008/010 | Train: 83.02% | Validation: 83.23%
+Time elapsed: 83.33 min
+Epoch: 009/010 | Batch 0000/0208 | Loss: 0.3953
+Epoch: 009/010 | Batch 0050/0208 | Loss: 0.1877
+Epoch: 009/010 | Batch 0100/0208 | Loss: 0.4107
+Epoch: 009/010 | Batch 0150/0208 | Loss: 0.2560
+Epoch: 009/010 | Batch 0200/0208 | Loss: 0.3603
+Epoch: 009/010 | Train: 83.44% | Validation: 82.81%
+Time elapsed: 93.12 min
+Epoch: 010/010 | Batch 0000/0208 | Loss: 0.1997
+Epoch: 010/010 | Batch 0050/0208 | Loss: 0.2575
+Epoch: 010/010 | Batch 0100/0208 | Loss: 0.3940
+Epoch: 010/010 | Batch 0150/0208 | Loss: 0.3486
+Epoch: 010/010 | Batch 0200/0208 | Loss: 0.2424
+Epoch: 010/010 | Train: 84.41% | Validation: 83.44%
+Time elapsed: 102.87 min
+Total Training Time: 102.87 min
+Test accuracy 82.91%
